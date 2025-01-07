@@ -1,0 +1,9 @@
+{
+	"name": "V.R.V.G.",
+	"version": "1.0.0",
+	"description": "el pro",
+	"private": true,
+	"scripts": {
+		"build": "hugo --cleanDestinationDir"
+	}
+}
