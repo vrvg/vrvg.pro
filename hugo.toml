@@ -2,4 +2,4 @@ baseURL = 'https://vrvg.pro/'
 languageCode = 'en-us'
 title = 'V.R.V.G. el pro'
 
-theme = 'hugo-theme-console"
+theme = 'hugo-theme-console'
